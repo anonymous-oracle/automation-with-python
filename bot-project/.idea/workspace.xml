@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af75cd03-fccf-42db-96e8-93c9ebe3fd50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/1.Table Extraction/Extract CSV files and Tables from Websites.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/2.Automate The News/Titanic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/2.Automate The News/more-links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/3.Excel Report/barchart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/3.Excel Report/pivot_table.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/3.Excel Report/report.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/3.Excel Report/supermarket_sales.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/Excel Automation - Medium.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/datasets/sales_2021.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/datasets/sales_february.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/datasets/sales_january.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/datasets/sales_march.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/datasets/supermarket_sales.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/file9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/automation-main/test-folder/new-folder/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/foo.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-with-python-projects/project2-web-scraping-and-web-automation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-course/bot-project/chromedriver" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DWfLiX8syTznce4lBU6pz17cp8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bot-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af75cd03-fccf-42db-96e8-93c9ebe3fd50" name="Changes" comment="" />
+      <created>1660819707008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660819707008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/booking/booking_report.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
